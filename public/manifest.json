@@ -1,7 +1,7 @@
 {
   "title": "Survey Tracking Map",
-  "url": "https://REPLACE_WITH_GITHUB_PAGES_OR_HOST/",
-  "icon": "https://REPLACE_WITH_GITHUB_PAGES_OR_HOST/icon.svg",
+  "url": "https://stevensheppard.github.io/survey-tracking-map/",
+  "icon": "https://stevensheppard.github.io/survey-tracking-map/icon.svg",
   "description": "Display field user locations from daily JSONL tracking files on an OSM or satellite map.",
   "enabled": true,
   "extensionType": ["project"]

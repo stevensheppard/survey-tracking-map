@@ -120,8 +120,15 @@ npm run build
 
 ## Docs
 
+- [Deploy in Trimble Connect](docs/DEPLOYMENT.md) ← start here for hosted testing
 - [Access ↔ Connect feed contract](docs/ACCESS_CONNECT_FEED_CONTRACT.md)
 - [GitHub hosting](docs/GITHUB_HOSTING.md)
+
+**Live URLs**
+
+- App: https://stevensheppard.github.io/survey-tracking-map/
+- Manifest: https://stevensheppard.github.io/survey-tracking-map/manifest.json
+- Repo: https://github.com/stevensheppard/survey-tracking-map
 
 ## Trimble references
 
