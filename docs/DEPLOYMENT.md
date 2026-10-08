@@ -8,16 +8,22 @@
 
 ## 1. Confirm Pages is live
 
-1. Open the repo → **Actions**
-2. Wait for **Deploy to GitHub Pages** to finish green on `main`
+1. Open the repo → **Actions** → **Deploy to GitHub Pages**
+2. Wait until both **build** and **deploy** are green
 3. Open https://stevensheppard.github.io/survey-tracking-map/ in a browser  
    You should see the Survey Tracking Map shell (mock mode outside Connect)
+
+If **deploy** is stuck or failed after a green **build**:
+
+1. Repo **Settings → Environments → github-pages**
+2. Under **Deployment branches**, ensure **main** is allowed
+3. On the failed/stuck run, click **Re-run all jobs**
 
 If Pages is not enabled yet:
 
 1. Repo **Settings → Pages**
 2. **Build and deployment → Source:** GitHub Actions
-3. Re-run the workflow from **Actions** if needed (`workflow_dispatch` or push to `main`)
+3. Re-run the workflow from **Actions** (`Re-run` or push to `main`)
 
 ---
 
