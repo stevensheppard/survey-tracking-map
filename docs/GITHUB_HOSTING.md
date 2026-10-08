@@ -1,41 +1,34 @@
 # Hosting Survey Tracking Map on GitHub
 
-This project does not currently have Git or the GitHub CLI installed in the shell environment used for development. Follow these steps on your PC to publish the extension for Connect testing.
+Git and the GitHub CLI are installed on this PC, and this project already has a local `main` commit. The remaining step is signing into your GitHub account and creating/pushing the remote repo.
 
-## 1. Install tools
+## 1. Sign in to GitHub (one-time)
 
-1. Install [Git for Windows](https://git-scm.com/download/win)
-2. Install [GitHub CLI](https://cli.github.com/) (optional but easiest), or use the GitHub website
-3. Restart Command Prompt / PowerShell
-
-Sign in:
+In PowerShell or Command Prompt:
 
 ```bat
 gh auth login
 ```
 
-Choose GitHub.com → HTTPS → login in the browser.
+Choose:
 
-## 2. Initialise the repo (from the extension folder)
+1. GitHub.com
+2. HTTPS
+3. Login with a web browser
+4. Complete the browser prompt with your account
+
+## 2. Create and push the repository
+
+From the extension folder:
 
 ```bat
 cd "C:\Users\ssheppa\Desktop\Connect API User Tracking Extension"
-git init
-git add .
-git commit -m "Add Survey Tracking Map Connect extension"
-```
-
-## 3. Create the GitHub repository
-
-### Option A — GitHub CLI
-
-```bat
 gh repo create survey-tracking-map --public --source=. --remote=origin --push
 ```
 
 Use `--private` instead of `--public` if you prefer.
 
-### Option B — Website
+### Alternative — website
 
 1. Open https://github.com/new
 2. Name it e.g. `survey-tracking-map`
@@ -44,7 +37,6 @@ Use `--private` instead of `--public` if you prefer.
 
 ```bat
 git remote add origin https://github.com/YOUR_USERNAME/survey-tracking-map.git
-git branch -M main
 git push -u origin main
 ```
 
