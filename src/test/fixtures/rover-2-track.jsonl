@@ -1,0 +1,17 @@
+{"timestamp": "2026-07-24T08:00:00.000Z", "latitude": -37.35915, "longitude": 144.65591, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862706.79, "easting": 292401.89, "elevation": 661.32}
+{"timestamp": "2026-07-24T08:30:00.000Z", "latitude": -37.36215, "longitude": 144.65276, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862367.19, "easting": 292131.3, "elevation": 661.24}
+{"timestamp": "2026-07-24T09:00:00.000Z", "latitude": -37.36112, "longitude": 144.65466, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862485.21, "easting": 292296.53, "elevation": 653.17}
+{"timestamp": "2026-07-24T09:30:00.000Z", "latitude": -37.36063, "longitude": 144.65568, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862542.62, "easting": 292385.39, "elevation": 651.53}
+{"timestamp": "2026-07-24T10:00:00.000Z", "latitude": -37.35984, "longitude": 144.65697, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862632.73, "easting": 292497.46, "elevation": 658.54}
+{"timestamp": "2026-07-24T10:30:00.000Z", "latitude": -37.35947, "longitude": 144.65786, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862676.21, "easting": 292575.77, "elevation": 664.78}
+{"timestamp": "2026-07-24T11:00:00.000Z", "latitude": -37.35872, "longitude": 144.65915, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862761.8, "easting": 292687.67, "elevation": 665.5}
+{"timestamp": "2026-07-24T11:30:00.000Z", "latitude": -37.35803, "longitude": 144.66034, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862841.23, "easting": 292791.06, "elevation": 672.43}
+{"timestamp": "2026-07-24T12:00:00.000Z", "latitude": -37.35677, "longitude": 144.65931, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862979.11, "easting": 292695.92, "elevation": 671.02}
+{"timestamp": "2026-07-24T12:30:00.000Z", "latitude": -37.35733, "longitude": 144.65724, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862911.87, "easting": 292514.18, "elevation": 659.91}
+{"timestamp": "2026-07-24T13:00:00.000Z", "latitude": -37.35589, "longitude": 144.65875, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5863074.67, "easting": 292644.45, "elevation": 665.67}
+{"timestamp": "2026-07-24T13:30:00.000Z", "latitude": -37.35509, "longitude": 144.65792, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5863161.45, "easting": 292568.81, "elevation": 656.17}
+{"timestamp": "2026-07-24T14:00:00.000Z", "latitude": -37.35623, "longitude": 144.65633, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5863031.58, "easting": 292431.3, "elevation": 653.86}
+{"timestamp": "2026-07-24T14:30:00.000Z", "latitude": -37.35682, "longitude": 144.65464, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862962.7, "easting": 292282.93, "elevation": 641.79}
+{"timestamp": "2026-07-24T15:00:00.000Z", "latitude": -37.35847, "longitude": 144.65532, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862781.16, "easting": 292347.86, "elevation": 655.46}
+{"timestamp": "2026-07-24T15:30:00.000Z", "latitude": -37.35851, "longitude": 144.6563, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862778.34, "easting": 292434.46, "elevation": 660.9}
+{"timestamp": "2026-07-24T16:00:00.000Z", "latitude": -37.35822, "longitude": 144.65651, "deviceId": "rover-1", "deviceName": "Rover 1", "northing": 5862811.67, "easting": 292452.31, "elevation": 662.06}

@@ -1,0 +1,23 @@
+{
+  "refreshIntervalSeconds": 60,
+  "basemaps": {
+    "streets": {
+      "id": "streets",
+      "label": "Street",
+      "type": "raster",
+      "tiles": ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
+      "attribution": "© OpenStreetMap contributors",
+      "maxZoom": 19
+    },
+    "satellite": {
+      "id": "satellite",
+      "label": "Satellite",
+      "type": "raster",
+      "tiles": [
+        "https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}.jpg?api_key=YOUR_API_KEY"
+      ],
+      "attribution": "© CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | © Stadia Maps © OpenMapTiles © OpenStreetMap",
+      "maxZoom": 16
+    }
+  }
+}
